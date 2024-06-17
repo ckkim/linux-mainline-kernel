@@ -957,6 +957,11 @@ properties:
           - const: hardkernel,rk3568-odroid-m1
           - const: rockchip,rk3568
 
+      - description: Rockchip RK3588s Hardkernel ODROID-M2
+        items:
+          - const: hardkernel,rk3588s-odroid-m2
+          - const: rockchip,rk3588s
+
 additionalProperties: true
 
 ...
